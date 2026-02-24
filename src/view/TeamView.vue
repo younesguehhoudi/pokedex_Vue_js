@@ -23,7 +23,7 @@ onMounted(() => {
     </div>
 
     <div v-else-if="store.team.length === 0" class="empty">
-      Aucun Pokémon capturé pour l'instant.
+      Aucun Pokémon capturé pour l'instant :) .
       <p>Allez dans "Pokémons API" pour capturer vos premiers Pokémons !</p>
     </div>
 
