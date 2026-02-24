@@ -1,0 +1,19 @@
+/* Couleurs des types Pokémon */
+.color-grass { --type-bg: #81c784; --detail-bg: linear-gradient(135deg, #c8e6c9 0%, #a5d6a7 100%); }
+.color-fire { --type-bg: #ff7043; --detail-bg: linear-gradient(135deg, #ffccbc 0%, #ffab91 100%); }
+.color-water { --type-bg: #29b6f6; --detail-bg: linear-gradient(135deg, #b3e5fc 0%, #81d4fa 100%); }
+.color-electric { --type-bg: #fbc02d; --detail-bg: linear-gradient(135deg, #fff9c4 0%, #fff59d 100%); --type-text: #333; }
+.color-ice { --type-bg: #81d4fa; --detail-bg: linear-gradient(135deg, #b3e5fc 0%, #81d4fa 100%); }
+.color-fighting { --type-bg: #d32f2f; --detail-bg: linear-gradient(135deg, #ffcdd2 0%, #ef9a9a 100%); }
+.color-poison { --type-bg: #d81b60; --detail-bg: linear-gradient(135deg, #f8bbd0 0%, #f48fb1 100%); }
+.color-ground { --type-bg: #795548; --detail-bg: linear-gradient(135deg, #d7ccc8 0%, #bcaaa4 100%); }
+.color-flying { --type-bg: #42a5f5; --detail-bg: linear-gradient(135deg, #d1c4e9 0%, #c5cae9 100%); }
+.color-psychic { --type-bg: #e91e63; --detail-bg: linear-gradient(135deg, #f8bbd0 0%, #f48fb1 100%); }
+.color-bug { --type-bg: #7cb342; --detail-bg: linear-gradient(135deg, #c8e6c9 0%, #a5d6a7 100%); }
+.color-rock { --type-bg: #78909c; --detail-bg: linear-gradient(135deg, #cfd8dc 0%, #b0bec5 100%); }
+.color-ghost { --type-bg: #7e57c2; --detail-bg: linear-gradient(135deg, #e1bee7 0%, #ce93d8 100%); }
+.color-dragon { --type-bg: #5c6bc0; --detail-bg: linear-gradient(135deg, #c5cae9 0%, #9fa8da 100%); }
+.color-dark { --type-bg: #424242; --detail-bg: linear-gradient(135deg, #424242 0%, #212121 100%); }
+.color-steel { --type-bg: #00897b; --detail-bg: linear-gradient(135deg, #e0f2f1 0%, #b2dfdb 100%); }
+.color-fairy { --type-bg: #ff1493; --detail-bg: linear-gradient(135deg, #f8bbd0 0%, #f48fb1 100%); }
+.color-normal { --type-bg: #9e9e9e; --detail-bg: linear-gradient(135deg, #f8bbd0 0%, #f48fb1 100%); }

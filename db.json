@@ -1,0 +1,21 @@
+{
+  "team": [
+    {
+      "id": 23,
+      "name": "ekans",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png",
+      "types": [
+        "poison"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "jigglypuff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png",
+      "types": [
+        "normal",
+        "fairy"
+      ]
+    }
+  ]
+}
